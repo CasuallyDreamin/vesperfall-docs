@@ -66,7 +66,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Gameplay/Classes/Overview.md",
+                    "file": "Gameplay/Classes/Cultist.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -81,7 +81,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "Overview"
+                  "title": "Cultist"
                 }
               }
             ],
@@ -283,16 +283,16 @@
   },
   "active": "cb8e7d3208a679c5",
   "lastOpenFiles": [
-    "Gameplay/Classes/Overview.md",
-    "World/Factions/Cultist.md",
     "Gameplay/Classes/Cultist.md",
     "Gameplay/Classes/Necromancer.md",
     "Gameplay/Classes/Hunter.md",
+    "Gameplay/Classes/Werewolf.md",
+    "Gameplay/Classes/Vampire.md",
+    "Gameplay/Classes/Overview.md",
+    "World/Factions/Cultist.md",
     "World/Factions/Hunter.md",
     "World/Factions/Werewolf.md",
-    "Gameplay/Classes/Werewolf.md",
     "World/Factions/Vampire.md",
-    "Gameplay/Classes/Vampire.md",
     "Gameplay/GamePlay.md",
     "Systems/Mechanics.md",
     "Systems/Entities.md",
