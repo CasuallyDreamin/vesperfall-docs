@@ -1,0 +1,1 @@
+Narrative identity of the Werewolf faction. See playable class: [[Gameplay/Classes/Werewolf]]

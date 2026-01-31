@@ -1,0 +1,1 @@
+Mechanical representation of the Necromancer faction. See narrative identity: [[World/Factions/Necromancer]]

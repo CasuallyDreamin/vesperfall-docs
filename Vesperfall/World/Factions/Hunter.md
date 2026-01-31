@@ -1,0 +1,1 @@
+Narrative identity of the Hunter faction. See playable class: [[Gameplay/Classes/Hunter]]

@@ -1,0 +1,1 @@
+Narrative identity of the Vampire faction. See playable class: [[Gameplay/Classes/Vampire]]

@@ -8,5 +8,6 @@ Everything that counts as game design in terms of systems, mechanics, interactio
 4. [[Rewards]]
 5. [[Punishments]]
 6. [[Player Goals]]
-7. [[Game Mechanics]]
+7. [[Mechanics]]
 8. [[Obstacles]]
+9. [[Classes]]

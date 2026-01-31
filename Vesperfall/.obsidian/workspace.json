@@ -10,7 +10,7 @@
           {
             "id": "34b8e7ac9da4d1b5",
             "type": "tabs",
-            "dimension": 75.37227949599084,
+            "dimension": 69.38349007314525,
             "children": [
               {
                 "id": "e7a4e4a337ce4fc8",
@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Game Play.md",
+                    "file": "Gameplay/Classes/Werewolf.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -33,15 +33,64 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "Game Play"
+                  "title": "Werewolf"
+                }
+              },
+              {
+                "id": "3ba714b4aaeea541",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Gameplay/Classes/Hunter.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Hunter"
+                }
+              },
+              {
+                "id": "e394ea2d34444ec7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Gameplay/Classes/Overview.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Overview"
                 }
               }
-            ]
+            ],
+            "currentTab": 2
           },
           {
             "id": "3c1e05c9bf948277",
             "type": "tabs",
-            "dimension": 24.627720504009165,
+            "dimension": 30.616509926854757,
             "children": [
               {
                 "id": "cb8e7d3208a679c5",
@@ -234,30 +283,41 @@
   },
   "active": "cb8e7d3208a679c5",
   "lastOpenFiles": [
-    "Game Play.md",
+    "Gameplay/Classes/Overview.md",
+    "World/Factions/Cultist.md",
+    "Gameplay/Classes/Cultist.md",
+    "Gameplay/Classes/Necromancer.md",
+    "Gameplay/Classes/Hunter.md",
+    "World/Factions/Hunter.md",
+    "World/Factions/Werewolf.md",
+    "Gameplay/Classes/Werewolf.md",
+    "World/Factions/Vampire.md",
+    "Gameplay/Classes/Vampire.md",
+    "Gameplay/GamePlay.md",
+    "Systems/Mechanics.md",
+    "Systems/Entities.md",
+    "World/World.md",
+    "World/Story.md",
     "<ROOT>.md",
-    "Client.md",
-    "Network.md",
-    "Server.md",
-    "UI-UX.md",
-    "Theme.md",
-    "Story.md",
-    "Intentions.md",
-    "World.md",
-    "Lore.md",
-    "Infra.md",
+    "World/Factions/Necromancer.md",
+    "World/Factions",
+    "World/Factions.md",
+    "Factions.md",
+    "Gameplay/UI-UX.md",
+    "Gameplay/Classes",
+    "Infrastructure",
+    "Systems",
+    "Gameplay",
+    "World",
+    "Intentions",
+    "Game Mechanics 1.md",
+    "Systems/Client.md",
+    "Systems/Network.md",
+    "Systems/Server.md",
+    "Intentions/Theme.md",
+    "Intentions/Intentions.md",
     "notes",
-    "Untitled.md",
     "root",
-    "lore.md",
-    "core.base",
-    "Vesperfall.md",
-    "gameplay/Systems.md",
-    "assets",
-    "content",
-    "gameplay",
-    "networking",
-    "categories",
-    "Welcome.md"
+    "core.base"
   ]
 }

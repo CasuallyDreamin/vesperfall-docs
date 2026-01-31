@@ -1,0 +1,1 @@
+Mechanical representation of the Werewolf faction. See narrative identity: [[World/Factions/Werewolf]]

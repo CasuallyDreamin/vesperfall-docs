@@ -1,0 +1,1 @@
+Mechanical representation of the Hunter faction. See narrative identity: [[World/Factions/Hunter]]

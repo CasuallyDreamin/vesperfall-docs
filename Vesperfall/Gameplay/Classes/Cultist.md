@@ -1,0 +1,1 @@
+Mechanical representation of the Cultist faction. See narrative identity: [[World/Factions/Cultist]]

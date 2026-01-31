@@ -1,0 +1,1 @@
+Narrative identity of the Cultist faction. See playable class: [[Gameplay/Classes/Cultist]]

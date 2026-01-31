@@ -1,0 +1,1 @@
+Mechanical representation of the Vampire faction. See narrative identity: [[World/Factions/Vampire]]
